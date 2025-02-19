@@ -67,7 +67,6 @@ web_modules/
 img.js
 # dotenv environment variables file
 twitter.js
-.env
 .env.test
 .env.production
 
